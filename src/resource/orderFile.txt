@@ -1,0 +1,4 @@
+100|100,paine,panificatie,7;101,salam,mezeluri,34|2024-11-12
+101|102,covrig,panificatie,5;103,sos,diverse,23|2024-11-12
+102|101,salam,mezeluri,34;102,covrig,panificatie,5|2024-11-21
+103|106,tv,electro,3443;100,paine,panificatie,7|2024-11-21

@@ -1,0 +1,7 @@
+100,paine,panificatie,7
+101,salam,mezeluri,34
+102,covrig,panificatie,5
+103,sos,diverse,23
+104,ceva2,ceva2,123
+105,macaroane,fainoase,34
+106,tv,electrocasnice,3345
